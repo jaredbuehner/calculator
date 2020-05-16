@@ -1,5 +1,5 @@
 # calculator
-A simple calculator that contains two scripts. The first calculates the maximum and minimum numbers that the user enters. The second is a traditional calculator that uses addition, subtraction, multiplication, division, and modulus operations.
+A simple calculator repository that contains two scripts. The first calculates the maximum and minimum numbers that the user enters. The second is a traditional calculator that uses addition, subtraction, multiplication, division, and modulus operations.
 
 <img width="641" alt="Screen Shot 2020-05-16 at 1 34 20 PM" src="https://user-images.githubusercontent.com/56742442/82126368-448b3700-977a-11ea-8b04-4d65321fbf3b.png">
 
