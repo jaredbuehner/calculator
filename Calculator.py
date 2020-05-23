@@ -31,7 +31,10 @@ elif userInput == 4:
     print("\nYou have selected division.\n")
     first = int(input("Enter your first integer: "))
     second = int(input("Enter your second integer: "))
-    print("\nThe division of", first, "and", second, "is", (first / second))
+    if second == 0:
+        print("Dividing by 0 is not allowed. Exiting calculator.")
+        SystemExit
+    else: print("\nThe division of", first, "and", second, "is", (first / second))
 
 elif userInput == 5:
     print("\nYou have selected modulus.\n")
